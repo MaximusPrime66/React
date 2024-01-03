@@ -1,0 +1,25 @@
+.pix
+{
+  height: 400px;
+  background: url('https://images.pexels.com/photos/5910956/pexels-photo-5910956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') no-repeat center center/cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: flex-end;
+  padding-bottom: 320px;
+  margin-left: 220px;
+  margin-right: 220px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.inx
+{
+    margin-left: 220px;
+    margin-right: 220px;
+}
+.kut
+{
+    margin-left: 220px;
+    margin-right: 220px;
+}
